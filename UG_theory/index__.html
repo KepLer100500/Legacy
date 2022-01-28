@@ -1,0 +1,24 @@
+<html>
+<head>
+<title>Информационно-обучающая система «Добыча, сбор и транспорт ГЖС на АГПЗ»</title>
+</head>
+<body oncontextmenu="return false">
+
+<script>
+function check_pass() {
+	x = prompt("Авторизуйтесь","");
+	if(x == "user01") {
+		document.body.innerHTML += "<form id='FormPass' action='index.php' method='post'></form>";
+		document.getElementById("FormPass").submit();
+	} else {
+		alert("Пароль неверен!");
+		document.body.innerHTML += "<form id='FormPassNo' action='index.html' method='post'></form>";
+		document.getElementById("FormPassNo").submit();
+	}
+
+}
+</script>
+<br><br><br><br><center><h2>Информационно-обучающая система «Добыча, сбор и транспорт ГЖС на АГПЗ»</h2><center><br>
+<center><img src="Control.png" onclick="check_pass();"><br>Нажмите на картинку для входа в программу</center>
+</body>
+</html>

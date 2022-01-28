@@ -1,0 +1,146 @@
+--2021-03-09 09:35:10--  http://aus017/AskMe/Question/Show/8ce080f9-58ce-4e0c-834e-1888c3e0c8e7?num=2
+Resolving aus017... 10.25.163.66
+Connecting to aus017|10.25.163.66|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 28869 (28K) [text/html]
+Saving to: `1.htm'
+
+     0K .......... .......... ........                        100% 9.27M=0.003s
+
+2021-03-09 09:35:11 (9.27 MB/s) - `1.htm' saved [28869/28869]
+
+Loading robots.txt; please ignore errors.
+--2021-03-09 09:35:11--  http://aus017/robots.txt
+Reusing existing connection to aus017:80.
+HTTP request sent, awaiting response... 401 Unauthorized
+Reusing existing connection to aus017:80.
+HTTP request sent, awaiting response... 401 Unauthorized
+Reusing existing connection to aus017:80.
+HTTP request sent, awaiting response... 404 Not Found
+2021-03-09 09:35:11 ERROR 404: Not Found.
+
+--2021-03-09 09:35:11--  http://aus017/AskMe/Content/css?v=hpXAB2C2tbqToS1qotzPe-TRzdRuyRoKvv4rGdGUXho1
+Reusing existing connection to aus017:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 99366 (97K) [text/css]
+Saving to: `1.htm'
+
+     0K .......... .......... .......... .......... .......... 51% 13.2M 0s
+    50K .......... .......... .......... .......... .......   100% 52.2M=0.005s
+
+2021-03-09 09:35:11 (20.7 MB/s) - `1.htm' saved [99366/99366]
+
+--2021-03-09 09:35:11--  http://aus017/AskMe/bundles/modernizr?v=wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1
+Reusing existing connection to aus017:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 10999 (11K) [text/javascript]
+Saving to: `1.htm'
+
+     0K ..........                                            100% 47.2M=0s
+
+2021-03-09 09:35:11 (47.2 MB/s) - `1.htm' saved [10999/10999]
+
+--2021-03-09 09:35:11--  http://aus017/AskMe/Content/scrollTopBottom?v=Wfe1FFr3YFpnxQE00_UaKoJjXHCRLgW8LU-_WgQ0iSg1
+Reusing existing connection to aus017:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 1020 [text/css]
+Saving to: `1.htm'
+
+     0K                                                       100%  183M=0s
+
+2021-03-09 09:35:11 (183 MB/s) - `1.htm' saved [1020/1020]
+
+--2021-03-09 09:35:11--  http://aus017/AskMe/Content/Upload/logo1.png
+Reusing existing connection to aus017:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2290 (2.2K) [image/png]
+Saving to: `1.htm'
+
+     0K ..                                                    100%  340M=0s
+
+2021-03-09 09:35:11 (340 MB/s) - `1.htm' saved [2290/2290]
+
+--2021-03-09 09:35:11--  http://aus017/AskMe/bundles/jquery?v=MfrQt3Fs5JluYYmdtdPgDxA60zhuNiINNxLCbJYNquY1
+Reusing existing connection to aus017:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 94776 (93K) [text/javascript]
+Saving to: `1.htm'
+
+     0K .......... .......... .......... .......... .......... 54% 26.4M 0s
+    50K .......... .......... .......... .......... ..        100% 10.8M=0.006s
+
+2021-03-09 09:35:11 (15.9 MB/s) - `1.htm' saved [94776/94776]
+
+--2021-03-09 09:35:11--  http://aus017/AskMe/bundles/bootstrap?v=2Fz3B0iizV2NnnamQFrx-NbYJNTFeBJ2GM05SilbtQU1
+Reusing existing connection to aus017:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 31069 (30K) [text/javascript]
+Saving to: `1.htm'
+
+     0K .......... .......... ..........                      100% 35.0M=0.001s
+
+2021-03-09 09:35:11 (35.0 MB/s) - `1.htm' saved [31069/31069]
+
+--2021-03-09 09:35:11--  http://aus017/AskMe/Question/Show/Scripts/jquery.totop.js
+Reusing existing connection to aus017:80.
+HTTP request sent, awaiting response... 404 Not Found
+2021-03-09 09:35:11 ERROR 404: Not Found.
+
+--2021-03-09 09:35:11--  http://aus017/AskMe/fonts/glyphicons-halflings-regular.eot
+Reusing existing connection to aus017:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 14079 (14K) [application/octet-stream]
+Saving to: `1.htm'
+
+     0K .......... ...                                        100% 27.9M=0s
+
+2021-03-09 09:35:11 (27.9 MB/s) - `1.htm' saved [14079/14079]
+
+--2021-03-09 09:35:11--  http://aus017/AskMe/fonts/glyphicons-halflings-regular.eot?
+Reusing existing connection to aus017:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 14079 (14K) [application/octet-stream]
+Saving to: `1.htm'
+
+     0K .......... ...                                        100% 39.8M=0s
+
+2021-03-09 09:35:11 (39.8 MB/s) - `1.htm' saved [14079/14079]
+
+--2021-03-09 09:35:11--  http://aus017/AskMe/fonts/glyphicons-halflings-regular.woff
+Reusing existing connection to aus017:80.
+HTTP request sent, awaiting response... 404 Not Found
+2021-03-09 09:35:11 ERROR 404: Not Found.
+
+--2021-03-09 09:35:11--  http://aus017/AskMe/fonts/glyphicons-halflings-regular.ttf
+Reusing existing connection to aus017:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 29512 (29K) [application/octet-stream]
+Saving to: `1.htm'
+
+     0K .......... .......... ........                        100% 30.9M=0.001s
+
+2021-03-09 09:35:11 (30.9 MB/s) - `1.htm' saved [29512/29512]
+
+--2021-03-09 09:35:11--  http://aus017/AskMe/fonts/glyphicons-halflings-regular.svg
+Reusing existing connection to aus017:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 63157 (62K) [image/svg+xml]
+Saving to: `1.htm'
+
+     0K .......... .......... .......... .......... .......... 81% 31.2M 0s
+    50K .......... .                                          100% 44.3M=0.002s
+
+2021-03-09 09:35:11 (33.0 MB/s) - `1.htm' saved [63157/63157]
+
+--2021-03-09 09:35:11--  http://aus017/AskMe/Content/totopicons.png
+Reusing existing connection to aus017:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 2435 (2.4K) [image/png]
+Saving to: `1.htm'
+
+     0K ..                                                    100%  333M=0s
+
+2021-03-09 09:35:11 (333 MB/s) - `1.htm' saved [2435/2435]
+
+FINISHED --2021-03-09 09:35:11--
+Downloaded: 12 files, 382K in 0.02s (20.9 MB/s)

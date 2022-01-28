@@ -1,0 +1,68 @@
+/*Make position:fixed work in IE6!*/
+
+#menu {
+position:fixed;
+top:50;
+left:50;
+_position:absolute;
+_top:expression(50+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+'px');
+_left:5%;
+}
+
+
+
+
+
+ 
+#clock {
+position:fixed;
+bottom:0;
+left:0;
+_position:absolute;
+_top:expression(eval(document.compatMode && document.compatMode=='CSS1Compat') ? documentElement.scrollTop +(documentElement.clientHeight-this.clientHeight) : document.body.scrollTop +(document.body.clientHeight-this.clientHeight));
+}
+
+#exit_b {
+position:fixed;
+bottom:0;
+right:0;
+_position:absolute;
+_top:expression(eval(document.compatMode && document.compatMode=='CSS1Compat') ? documentElement.scrollTop +(documentElement.clientHeight-this.clientHeight) : document.body.scrollTop +(document.body.clientHeight-this.clientHeight));
+}
+
+#chekers {
+position:absolute;
+top:0;
+right:-300;
+_position:absolute;
+_top:0;
+_right:10;
+}
+
+#help {
+position:absolute;
+top:50%;
+left:50%;
+_position:absolute;
+_top:50%;
+_left:50%;
+}
+
+#kvadrat {
+position:fixed;
+_position:absolute;
+}
+
+#temp123 {
+position:fixed;
+_position:absolute;
+}
+
+#go_back {
+position:fixed;
+top:100;
+right:0;
+_position:absolute;
+_top:expression(100+((e=document.documentElement.scrollTop)?e:document.body.scrollTop)+'px');
+_right:50;
+}
